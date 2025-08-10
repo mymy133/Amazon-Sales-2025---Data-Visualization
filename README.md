@@ -4,6 +4,7 @@
 This project analyzes a fictional online sales dataset.  
 It includes data exploration and visualization using **pandas**, **matplotlib**, and **seaborn**.
 
+- **Source:** [Kaggle – Salary Dataset](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)  
 ## Objectives
 - Understand the distribution of sales by category, city, and payment method.
 - Identify sales trends over time.
